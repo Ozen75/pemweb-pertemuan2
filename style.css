@@ -1,0 +1,33 @@
+body{
+    margin: 0px 120px;
+    background-color: rgb(42, 42, 82);
+    color: white;
+    text-decoration-color: white;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+img{
+    border: 5px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+    margin-left: 420px;
+}
+
+nav, a{
+    background-color: black;
+    padding: 10px 40px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+form{
+    border: 5px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+}
